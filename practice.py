@@ -19,4 +19,4 @@ def linear_search(lst: list, value: Any) -> int:
        return -1
       
     else:
-      return i
+       return i
